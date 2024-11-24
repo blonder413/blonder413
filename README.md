@@ -13,17 +13,18 @@
 <div>
   <h2>Lenguajes y Herramientas</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height=40 title='PHP' alt='PHP'>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" height=40 title='Laravel' alt='Laravel'>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height=40 title='Laravel' alt='Laravel'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg" height=40 title='Yii' alt='Yii'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height=40 title='Python' alt='Python'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" height=40 title='Flask' alt='Flask'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" height=40 title='FastAPI' alt='FastAPI'>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" height=40 title='Django' alt='Django'>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" height=40 title='Django' alt='Django'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height=40 title='MySQL' alt='MySQL'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height=40 title='PostgreSQL' alt='PostgreSQL'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height=40 title='Javascript' alt='Javascript'>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" height=40 title='NestJS' alt='NestJS'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height=40 title='CSS' alt='CSS'>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height=40 title='Ubuntu' alt='Ubuntu'>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" height=40 title='Ubuntu' alt='Ubuntu'>
 </div>
 
 <!--
